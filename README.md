@@ -29,6 +29,8 @@
 3
 `
 
+## Errors cases
+
 1. ⛔ Returns **Error** with the error message:
 
 ```js
